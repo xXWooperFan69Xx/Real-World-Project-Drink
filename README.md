@@ -1,8 +1,9 @@
 # Digital Partners' Drink Project
 <h2> Site & App Previews </h2>
-<video controls src="https://i.imgur.com/gZQqLAc.mp4" title="Title"></video>
-<br>
-<video controls src="https://i.imgur.com/aUaymnH.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/1aea0ce9-ed83-4107-97f8-a9abf809d399
+
+https://github.com/user-attachments/assets/a8bffbcf-6074-4cd8-a002-492854dffcf6
 
 <br>
 
