@@ -1,8 +1,8 @@
 # Digital Partners' Drink Project
 <h2> Site & App Previews </h2>
-<video controls src="Phone record.mp4" title="Title"></video>
+<video controls src="https://i.imgur.com/gZQqLAc.mp4" title="Title"></video>
 <br>
-<video controls src="Website Prototype Short Demo.mp4" title="Title"></video>
+<video controls src="https://i.imgur.com/aUaymnH.mp4" title="Title"></video>
 
 <br>
 
