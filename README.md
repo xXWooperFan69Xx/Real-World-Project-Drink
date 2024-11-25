@@ -1,9 +1,14 @@
 # Digital Partners' Drink Project
 <h2> Site & App Previews </h2>
 
-https://github.com/user-attachments/assets/1aea0ce9-ed83-4107-97f8-a9abf809d399
+https://github.com/user-attachments/assets/53bee55b-3b3a-4054-8038-f92b1abc60d0
 
-https://github.com/user-attachments/assets/a8bffbcf-6074-4cd8-a002-492854dffcf6
+
+
+https://github.com/user-attachments/assets/a3f78ae2-2e82-4699-8345-b3f77ab86479
+
+
+
 
 <br>
 
