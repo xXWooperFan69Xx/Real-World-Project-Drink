@@ -8,12 +8,12 @@ https://github.com/user-attachments/assets/a8bffbcf-6074-4cd8-a002-492854dffcf6
 <br>
 
 <h2> Can Design </h2>
-<img src="drink final maybe.png" alt="can design" width="400"/>
+<img src="cans/drink final maybe.png" alt="can design" width="400"/>
 
 <br>
 
 <h2> Flavour Icons </h2>
-<img src="mint icon.png" alt="mint" width="200"/>
-<img src="honey icon.png" alt="honey" width="200"/>
-<img src="green tea icon.png" alt="green tea" width="200"/>
-<img src="berry icon.png" alt="berry" width="200"/>
+<img src="icons/mint icon.png" alt="mint" width="200"/>
+<img src="icons/honey icon.png" alt="honey" width="200"/>
+<img src="icons/green tea icon.png" alt="green tea" width="200"/>
+<img src="icons/berry icon.png" alt="berry" width="200"/>
